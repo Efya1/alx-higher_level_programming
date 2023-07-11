@@ -1,4 +1,4 @@
-By AFUA ASUBONTENG
+BY AFUA OWUSUAA ASUBONTENG
 
 0x00. Python - Hello, World
 
