@@ -1,1 +1,3 @@
-# alx-higher_level_programming
+This is the next level of our studies
+we are starting with python
+
