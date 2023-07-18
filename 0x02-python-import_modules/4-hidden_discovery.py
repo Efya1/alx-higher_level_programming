@@ -1,7 +1,10 @@
 #!/usr/bin/python3
-import hidden_4
+
+import hidden_4 as hidden
+
 
 if __name__ == "__main__":
-    for function in dir(hidden_4):
-        if (function[0] != "_"):
-            print(function)
+
+    for name in dir(hidden):
+        if not name.startswith('__'):
+            print(name)
