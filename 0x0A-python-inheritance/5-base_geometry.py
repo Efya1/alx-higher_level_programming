@@ -1,4 +1,5 @@
- an (empty) base class for geometric objects
+#!/usr/bin/python3
+""" Provides an (empty) base class for geometric objects
 """
 
 
